@@ -11,7 +11,6 @@ Os projetos utilizam **fila (FIFO)**, **deque** e **pilha (LIFO)**, com interaç
 - Python
 - collections.deque
 - Estruturas de Dados
-- Programação Procedural
 - Terminal / CLI
 
 ---
